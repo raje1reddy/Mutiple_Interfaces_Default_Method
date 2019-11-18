@@ -8,5 +8,6 @@ public class AnimalTest {
 
     @Test
     public void relax() {
+        System.out.println("relaxation");
     }
 }
