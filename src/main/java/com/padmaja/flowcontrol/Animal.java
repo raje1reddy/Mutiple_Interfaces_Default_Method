@@ -5,8 +5,10 @@ public class Animal  implements Jumpable,Moveable {
                     System.out.println(Jumpable.MIN_DISTANCE);
                 }
 
+
     @Override
     public void relax() {
         System.out.println("relax");
     }
+
 }

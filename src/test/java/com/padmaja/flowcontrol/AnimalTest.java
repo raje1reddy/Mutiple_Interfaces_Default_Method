@@ -12,6 +12,11 @@ Animal animal = new Animal();
         animal.relax();
         animal.relax();
         System.out.println(animal.equals(animal));
+
+    }
+    AnimalTest(){
+        System.out.println(Jumpable.MIN_DISTANCE);
+        System.out.println(Moveable.MIN_DISTANCE);
     }
 
 }
