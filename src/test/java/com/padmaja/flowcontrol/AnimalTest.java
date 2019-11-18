@@ -14,7 +14,7 @@ Animal animal = new Animal();
         //System.out.println(animal.equals(animal));
 
     }
-    AnimalTest(){
+    public AnimalTest(){
         System.out.println(Jumpable.MIN_DISTANCE);
         System.out.println(Moveable.MIN_DISTANCE);
     }
