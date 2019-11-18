@@ -38,7 +38,8 @@ public class EmployeeTest {
     public void inheritanceExample1() {
         employee.startProjectWork();
         employee.reachOffice();
-        animal.hashCode();
+        animal.relax();
+
         ;
         //manager.teamSize();
     }
