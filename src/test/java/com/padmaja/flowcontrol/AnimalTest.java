@@ -11,7 +11,7 @@ Animal animal = new Animal();
         System.out.println("relaxation");
         animal.relax();
         animal.relax();
-        System.out.println(animal.equals(animal));
+        //System.out.println(animal.equals(animal));
 
     }
     AnimalTest(){
